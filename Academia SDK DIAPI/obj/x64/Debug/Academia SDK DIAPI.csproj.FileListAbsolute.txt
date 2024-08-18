@@ -1,0 +1,9 @@
+C:\Users\AdministratorD\Desktop\Academia SDK DIAPI\Academia SDK DIAPI\bin\x64\Debug\Academia SDK DIAPI.exe.config
+C:\Users\AdministratorD\Desktop\Academia SDK DIAPI\Academia SDK DIAPI\bin\x64\Debug\Academia SDK DIAPI.exe
+C:\Users\AdministratorD\Desktop\Academia SDK DIAPI\Academia SDK DIAPI\bin\x64\Debug\Academia SDK DIAPI.pdb
+C:\Users\AdministratorD\Desktop\Academia SDK DIAPI\Academia SDK DIAPI\obj\x64\Debug\Academia SDK DIAPI.csproj.AssemblyReference.cache
+C:\Users\AdministratorD\Desktop\Academia SDK DIAPI\Academia SDK DIAPI\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\AdministratorD\Desktop\Academia SDK DIAPI\Academia SDK DIAPI\obj\x64\Debug\Academia SDK DIAPI.csproj.ResolveComReference.cache
+C:\Users\AdministratorD\Desktop\Academia SDK DIAPI\Academia SDK DIAPI\obj\x64\Debug\Academia SDK DIAPI.csproj.CoreCompileInputs.cache
+C:\Users\AdministratorD\Desktop\Academia SDK DIAPI\Academia SDK DIAPI\obj\x64\Debug\Academia SDK DIAPI.exe
+C:\Users\AdministratorD\Desktop\Academia SDK DIAPI\Academia SDK DIAPI\obj\x64\Debug\Academia SDK DIAPI.pdb
